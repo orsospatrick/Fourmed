@@ -1389,7 +1389,8 @@ p {
 }
 
 .navbar-brand img {
-  max-width: 150px;
+  width: 30%;
+  height: 30%;
 }
 
 .navbar-toggler {
